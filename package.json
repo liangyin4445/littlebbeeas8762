@@ -1,0 +1,33 @@
+{
+  "name": "littlebbeeas8762",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangyin4445/littlebbeeas8762"
+  },
+  "website": "https://github.com/liangyin4445/littlebbeeas8762.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "liangyin4445",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangyin4445/littlebbeeas8762/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/liangyin4445/littlebbeeas8762#readme",
+  "dependencies": {
+    "godliang8761": "1.0.2"
+  }
+}
